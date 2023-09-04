@@ -1,8 +1,10 @@
 # Diwali_Sales_Analysis_EDA_Project
 The Diwali Sales Analysis EDA (Exploratory Data Analysis) Project is a comprehensive data-driven study aimed at understanding and optimizing sales performance during the festive season of Diwali. 
 
+![GitHub Logo](https://github.com/iamnaofil/Diwali_Sales_Analysis_EDA_Project/blob/main/diwalisales.jpeg)
 Diwali, also known as the Festival of Lights, is one of the most significant and widely celebrated festivals in India and various other parts of the world. It is marked by lavish decorations, gift-giving, and increased consumer spending, making it a crucial period for businesses to maximize their sales.
-
+# Explorative Data Analysis on Diwali Sales Data
+![GitHub Logo](https://github.com/iamnaofil/Diwali_Sales_Analysis_EDA_Project/blob/main/DiwaliSalesEDA.jpg)
 **Project Learnings:**
 
 
