@@ -19,7 +19,7 @@ Improved Sales by identifying most selling products categories and productm whic
 **Visualization:** Create informative and visually appealing charts, graphs, and dashboards to present the findings from the EDA. Visualization tools such as bar charts, line graphs, heatmaps, and geospatial maps can help convey insights effectively.
 
 See EDA on Colab File
-[View the Notebook](https://github.com/iamnaofil/Diwali_Sales_Analysis_EDA_Project/blob/main/Dilwali%20Sales%20Analysis%20EDA.ipynb)
+[View the Notebook](https://github.com/iamnaofil/Diwali_Sales_Analysis_EDA_Project/blob/main/Diwali%20Sales%20Analysis%20EDA.ipynb)
 
 
 
