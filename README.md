@@ -25,6 +25,8 @@ See EDA on Colab File
 
 [#View on Github Code](https://github.com/iamnaofil/Diwali_Sales_Analysis_EDA_Project/blob/main/Diwali%20Sales%20Analysis%20EDA.ipynb)
 
+[#View EDA Project as PDF file](https://drive.google.com/file/d/1WKCRiiOuevfG74cYV_8gCO3rwoSEBnFJ/view?usp=sharing)
+
 
 
 # Project Conclusion 
